@@ -1,0 +1,77 @@
+C:\Users\Abi\source\repos\POS\POS\bin\Debug\POS.exe.config
+C:\Users\Abi\source\repos\POS\POS\bin\Debug\POS.exe
+C:\Users\Abi\source\repos\POS\POS\bin\Debug\POS.pdb
+C:\Users\Abi\source\repos\POS\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\Abi\source\repos\POS\POS\obj\Debug\POS.Form1.resources
+C:\Users\Abi\source\repos\POS\POS\obj\Debug\POS.Form2.resources
+C:\Users\Abi\source\repos\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Abi\source\repos\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Abi\source\repos\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Abi\source\repos\POS\POS\obj\Debug\POS.exe
+C:\Users\Abi\source\repos\POS\POS\obj\Debug\POS.pdb
+C:\Users\dell 7404\Desktop\POSsss\POS\bin\Debug\POS.exe.config
+C:\Users\dell 7404\Desktop\POSsss\POS\bin\Debug\POS.exe
+C:\Users\dell 7404\Desktop\POSsss\POS\bin\Debug\POS.pdb
+C:\Users\dell 7404\Desktop\POSsss\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\dell 7404\Desktop\POSsss\POS\obj\Debug\POS.Form1.resources
+C:\Users\dell 7404\Desktop\POSsss\POS\obj\Debug\POS.Form2.resources
+C:\Users\dell 7404\Desktop\POSsss\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\dell 7404\Desktop\POSsss\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\dell 7404\Desktop\POSsss\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\dell 7404\Desktop\POSsss\POS\obj\Debug\POS.exe
+C:\Users\dell 7404\Desktop\POSsss\POS\obj\Debug\POS.pdb
+C:\Users\Abi\Desktop\POSsss\POS\bin\Debug\POS.exe.config
+C:\Users\Abi\Desktop\POSsss\POS\bin\Debug\POS.exe
+C:\Users\Abi\Desktop\POSsss\POS\bin\Debug\POS.pdb
+C:\Users\Abi\Desktop\POSsss\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\Abi\Desktop\POSsss\POS\obj\Debug\POS.Form1.resources
+C:\Users\Abi\Desktop\POSsss\POS\obj\Debug\POS.Form2.resources
+C:\Users\Abi\Desktop\POSsss\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Abi\Desktop\POSsss\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Abi\Desktop\POSsss\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Abi\Desktop\POSsss\POS\obj\Debug\POS.exe
+C:\Users\Abi\Desktop\POSsss\POS\obj\Debug\POS.pdb
+E:\BackUps\POS80\POS\bin\Debug\POS.exe.config
+E:\BackUps\POS80\POS\bin\Debug\POS.exe
+E:\BackUps\POS80\POS\bin\Debug\POS.pdb
+E:\BackUps\POS80\POS\obj\Debug\POS.csprojAssemblyReference.cache
+E:\BackUps\POS80\POS\obj\Debug\POS.Form1.resources
+E:\BackUps\POS80\POS\obj\Debug\POS.Form2.resources
+E:\BackUps\POS80\POS\obj\Debug\POS.Properties.Resources.resources
+E:\BackUps\POS80\POS\obj\Debug\POS.csproj.GenerateResource.cache
+E:\BackUps\POS80\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+E:\BackUps\POS80\POS\obj\Debug\POS.exe
+E:\BackUps\POS80\POS\obj\Debug\POS.pdb
+E:\BackUps\Game80 - temp2\POS\bin\Debug\POS.exe.config
+E:\BackUps\Game80 - temp2\POS\bin\Debug\POS.exe
+E:\BackUps\Game80 - temp2\POS\bin\Debug\POS.pdb
+E:\BackUps\Game80 - temp2\POS\obj\Debug\POS.csprojAssemblyReference.cache
+E:\BackUps\Game80 - temp2\POS\obj\Debug\POS.Form1.resources
+E:\BackUps\Game80 - temp2\POS\obj\Debug\POS.Form2.resources
+E:\BackUps\Game80 - temp2\POS\obj\Debug\POS.Properties.Resources.resources
+E:\BackUps\Game80 - temp2\POS\obj\Debug\POS.csproj.GenerateResource.cache
+E:\BackUps\Game80 - temp2\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+E:\BackUps\Game80 - temp2\POS\obj\Debug\POS.exe
+E:\BackUps\Game80 - temp2\POS\obj\Debug\POS.pdb
+C:\Users\acer\Desktop\Game80 - temp2\POS\bin\Debug\POS.exe.config
+C:\Users\acer\Desktop\Game80 - temp2\POS\bin\Debug\POS.exe
+C:\Users\acer\Desktop\Game80 - temp2\POS\bin\Debug\POS.pdb
+C:\Users\acer\Desktop\Game80 - temp2\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Game80 - temp2\POS\obj\Debug\POS.Form1.resources
+C:\Users\acer\Desktop\Game80 - temp2\POS\obj\Debug\POS.Form2.resources
+C:\Users\acer\Desktop\Game80 - temp2\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\acer\Desktop\Game80 - temp2\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\Game80 - temp2\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Game80 - temp2\POS\obj\Debug\POS.exe
+C:\Users\acer\Desktop\Game80 - temp2\POS\obj\Debug\POS.pdb
+C:\Users\acer\Desktop\NewTemp#\POS\bin\Debug\POS.exe.config
+C:\Users\acer\Desktop\NewTemp#\POS\bin\Debug\POS.exe
+C:\Users\acer\Desktop\NewTemp#\POS\bin\Debug\POS.pdb
+C:\Users\acer\Desktop\NewTemp#\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\NewTemp#\POS\obj\Debug\POS.Form1.resources
+C:\Users\acer\Desktop\NewTemp#\POS\obj\Debug\POS.Form2.resources
+C:\Users\acer\Desktop\NewTemp#\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\acer\Desktop\NewTemp#\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\NewTemp#\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\NewTemp#\POS\obj\Debug\POS.exe
+C:\Users\acer\Desktop\NewTemp#\POS\obj\Debug\POS.pdb
